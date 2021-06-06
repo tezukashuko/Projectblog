@@ -1,4 +1,5 @@
-## Layout designed by [W3Layouts](https://w3layouts.com/)
+# Midterm project in HCMUS - AUT || Student ID: 1959027
+## Layout designed by W3Layouts
 
 ### Main features
 
@@ -12,4 +13,4 @@
 * Member edit/delete **their own posts**, delete their cmts 
 * Loadmore button (~~lazy loading~~ because of bugs 😥)
 
-_Note: An included SQL have admin account (admin,admin). When accounts are created, the default role is set as member. It can re-role by edit in DTB, I do not program some string to active admin role._
+_Note: An included SQL has admin account (admin,admin). When accounts are created, the default role is set as a member. It can re-role by edit in DTB, I do not program some strings to activate admin role._
