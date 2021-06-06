@@ -1,0 +1,35 @@
+.input-form label {
+  margin-top: 1rem !important;
+}
+
+.input-form button {
+  margin-top: 1rem !important;
+}
+
+form .error {
+  color: red !important;
+  font-style: italic;
+  font-size: small;
+}
+.img_object{
+  object-fit: cover;
+  object-position: center;
+
+}
+.post .card:hover {
+  transform: none;
+  box-shadow: rgba(1, 1, 1, 0.05) 1px 1px 5px 0px;
+  border-radius: var(--border-radius-full);
+  transition: 0.3s ease;
+  -webkit-transition: 0.3s ease;
+  -moz-transition: 0.3s ease;
+  -ms-transition: 0.3s ease;
+  -o-transition: 0.3s ease;
+}
+
+.post a.blog-desc:hover {
+  color: var(--heading-color);
+}
+.transitioncmt{
+  transition: 1s ease;
+}
