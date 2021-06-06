@@ -13,4 +13,7 @@
 * Member edit/delete **their own posts**, delete their cmts 
 * Loadmore button (~~lazy loading~~ because of bugs 😥)
 
+
+_**- Use db.php to edit the account of your database**_
+
 _Note: An included SQL has admin account (admin,admin). When accounts are created, the default role is set as a member. It can re-role by edit in DTB, I do not program some strings to activate admin role._
